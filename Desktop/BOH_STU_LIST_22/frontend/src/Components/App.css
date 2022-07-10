@@ -1,0 +1,51 @@
+
+
+body {
+  background-color: rgb(224, 220, 220);
+  font-family: 'Commissioner', sans-serif;
+}
+
+
+.brand-logo {
+  font-family: 'Prata', serif;
+  font-weight: bolder;
+  margin-left: 350px;
+}
+
+
+/* STUDENT LIST */
+.list-header {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+span {
+  font-family: 'Prata', serif;
+  font-size: 1000px;
+  background-color: rgb(184, 177, 166);
+}
+
+.collection {
+  text-align: center;
+  font-size: 17px;
+  font-weight: 800;
+  
+}
+
+
+/* FORM */
+
+.form-align {
+  cursor: pointer;
+}
+
+.container {
+  align-content: center;
+}
+
+/* BUTTON */
+
+.remove {
+  margin-left: 40px;
+}
